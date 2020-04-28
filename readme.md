@@ -14,4 +14,4 @@ are to lazy to set everything up themselves and want to jump straight in.
 
 You can use this template right now. The only things left are a short description of what is happening in
 `index.html` and `script.js` and a short reference for all main Canvas functions that will be useful for
-beginners.
+beginners. If you want to help with that - there are two Git branches you can add to.
