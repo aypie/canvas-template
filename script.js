@@ -1,4 +1,4 @@
-CanvasElement = document.getElementById("Main");
+CanvasObject = document.getElementById("Main");
 Canvas = CanvasObject.getContext("2d");
 
 function Frame() {
